@@ -19,6 +19,7 @@ void main() {
            ),
           Center(
             child:  Image.network("https://film-book.com/wp-content/uploads/2021/02/greys-anatomy-season-seventeen-tv-show-poster-01-700x400-1.jpg"),
+            // child:  Image.network(),
           ),
         ],
       )
